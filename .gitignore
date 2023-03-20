@@ -1,0 +1,4 @@
+*.hcl
+*.info
+*.backup
+.terraform/
